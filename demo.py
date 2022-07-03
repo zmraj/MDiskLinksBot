@@ -1,3 +1,3 @@
-ADMINS = list(int(i.strip()) for i in "2132021818".split(","))
+ADMINS = list(int(i.strip()) for i in "21320".split(","))
 
 print(ADMINS)
