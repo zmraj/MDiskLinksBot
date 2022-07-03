@@ -59,7 +59,7 @@ You can deploy this bot anywhere.
 Deploy to VPS
 <p>
 <pre>
-git clone https://github.com/kevinnadar22/URL-Shortener-V2
+git clone  https://github.com/zmraj/MDiskLinksBot
 cd URL-Shortener-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/config.py File Accordingly
