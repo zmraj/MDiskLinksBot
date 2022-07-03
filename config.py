@@ -7,7 +7,7 @@ MDISK_API = os.environ.get("MDISK_API")
 CHANNEL_ID = list(int(i.strip()) for i in os.environ.get("CHANNEL_ID").split(" ")) if os.environ.get("CHANNEL_ID") else []
 FORWARD_MESSAGE = bool(os.environ.get("FORWARD_MESSAGE"))
 ADMINS = list(int(i.strip()) for i in os.environ.get("ADMINS").split(",")) if os.environ.get("ADMINS") else []
-SOURCE_CODE = "https://github.com/kevinnadar22/URL-Shortener-V2"
+SOURCE_CODE = "https://t.me/MDiskofficial1Bot"
 CHANNELS = bool(os.environ.get("CHANNELS"))
 
 
