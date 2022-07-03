@@ -1,12 +1,12 @@
 # URL Shortener Bot V2
 
 <p align="center">
-  <a href="https://github.com/kevinnadar22/URL-Shortener-V2/stargazers">
+  <a href=" https://github.com/zmraj/MDiskLinksBot/stargazers">
     <img src="https://img.shields.io/github/stars/kevinnadar22/URL-Shortener-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/kevinnadar22/URL-Shortener-V2/fork">
+  <a href=" https://github.com/zmraj/MDiskLinksBot/fork">
     <img src="https://img.shields.io/github/forks/kevinnadar22/URL-Shortener-V2?label=Fork&style=social">
 
   </a>  
