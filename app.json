@@ -6,8 +6,8 @@
     "telegram",
     "shortener"
   ],
-  "website": "https://github.com/T2links/",
-  "repository": "https://github.com/T2links/",
+  "website": "https://t.me/MDiskofficial1Bot/",
+  "repository": "https://github.com/zmraj/MDiskLinksBot/",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token from @botfather",
