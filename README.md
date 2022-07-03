@@ -37,7 +37,7 @@ Pre Requisites
 ------------------
 * -> __Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
-* -> __Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
+* -> __Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org)  
 
 * -> __Your Telegram ID and ID of Users you want add as Admin__
 
@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>Deploy To Heroku<P>
 <p>
 
-<a href="https://heroku.com/deploy?template=https://github.com/kevinnadar22/MDISK-Convertor">
+<a href="https://heroku.com/deploy?template=https://github.com/zmraj/MDiskLinksBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -68,7 +68,7 @@ python3 -m bot
 
 
 ## Support   
-Contact Our [DEV](https://www.telegram.dog/ask_admin001) For Support/Assistance    
+Contact Our [DEV](https://github.com/zmraj/MDiskLinksBot) For Support/Assistance    
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
@@ -80,6 +80,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 ## Credits
-
- - Thanks To [CrazyBotsz/Adv-Auto-Filter-Bot-V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) For His Awesome README.md Template
- - [Thanks To Me](https://github.com/Kevinnadar22)
+ 
